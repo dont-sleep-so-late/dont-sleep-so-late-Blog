@@ -2,10 +2,21 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+home: true
+title: dont-sleep-so-late!
+titleTemplate: Hi，终于等到你
+editLink: true
+lastUpdated: true
+
 hero:
   name: "你别睡这么晚"
   text: "一个学习笔记网站"
   tagline: 🤖️数码科技爱好者/🔍分享与热心帮助
+  image:
+    # 首页右边的图片
+    src: /logo.png
+    # 图片的描述
+    alt: avatar
   actions:
     - theme: brand
       text: 进入主页
