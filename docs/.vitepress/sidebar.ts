@@ -1,6 +1,6 @@
 import resources from "../resources/sidebar";
 import fe from "../fe/sidebar";
-// import projects from "../projects/sidebar";
+import git from "../git/sidebar";
 import university from "../university/sidebar";
 // import lang from "../lang/sidebar";
 // import magazine from "../magazine/sidebar";
@@ -10,10 +10,10 @@ import interview from "../interview/sidebar";
 export default {
   "/resources": resources,
   "/fe": fe,
-  //   "/projects": projects,
+  "/git ": git,
   "/university": university,
   //   "/lang": lang,
-  "/magazine": magazine,
+  // "/magazine": magazine,
   //   "/work": work,
   "/interview": interview,
 };
