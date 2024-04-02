@@ -27,7 +27,7 @@ export default [
       {
         text: "项目",
         items: [
-          { text: "COVID-19", link: "/projects/covid19/headline" },
+          { text: "人力资源管理", link: "/projects/人力资源管理" },
           { text: "Echarts", link: "/projects/echarts/headline" },
         ],
       },
@@ -44,20 +44,20 @@ export default [
       { text: "Python", link: "/lang/python/crawler" },
     ],
   },
-  {
-    text: "高效搬砖",
-    items: [
-      { text: "那些年, Antd 坑我的地方", link: "/work/antd" },
-      { text: "Error 虐我千百遍", link: "/work/errors" },
-      { text: "富文本编辑器", link: "/work/editor" },
-      { text: "开发工具", link: "/work/tools" },
-      {
-        text: "微信小程序",
-        items: [
-          { text: "小程序开发之坑", link: "/work/wx/wx_points" },
-          { text: "微信小程序地图开发", link: "/work/wx/wx_map" },
-        ],
-      },
-    ],
-  },
+  // {
+  //   text: "高效搬砖",
+  //   items: [
+  //     { text: "那些年, Antd 坑我的地方", link: "/work/antd" },
+  //     { text: "Error 虐我千百遍", link: "/work/errors" },
+  //     { text: "富文本编辑器", link: "/work/editor" },
+  //     { text: "开发工具", link: "/work/tools" },
+  //     {
+  //       text: "微信小程序",
+  //       items: [
+  //         { text: "小程序开发之坑", link: "/work/wx/wx_points" },
+  //         { text: "微信小程序地图开发", link: "/work/wx/wx_map" },
+  //       ],
+  //     },
+  //   ],
+  // },
 ];
