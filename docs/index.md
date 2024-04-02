@@ -20,10 +20,10 @@ hero:
   actions:
     - theme: brand
       text: 进入主页
-      link: /markdown-examples
+      link: /fe/vue/Vue3学习(新)
     - theme: alt	
       text: 个人成长
-      link: /api-examples
+      link: /university/network
 
 features:
   - icon: 🤹
