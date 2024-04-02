@@ -4,6 +4,7 @@ export default [
     collapsed: true,
     items: [
       { text: "HTML", link: "/fe/html/html" },
+      { text: "HTML5", link: "/fe/html/html5" },
       { text: "CSS", link: "/fe/css/css" },
       { text: "Flex", link: "/fe/css/flex" },
       { text: "Grid", link: "/fe/css/grid" },
@@ -34,6 +35,14 @@ export default [
       { text: "Vuex", link: "/fe/vue/vuex" },
       { text: "Vue Router", link: "/fe/vue/vue_router" },
       { text: "Vue3", link: "/fe/vue/vue3" },
+      { text: "Vue3项目配置", link: "/fe/vue/Vue3项目配置" },
+      { text: "Vue3学习(新)", link: "/fe/vue/Vue3学习(新)" },
+      { text: "vue组件之间传递数据", link: "/fe/vue/vue组件之间传递数据" },
+      {
+        text: "Vue 封装API",
+        link: "/fe/vue/使用 Vue3 封装一些有用的组合 API",
+      },
+      { text: "Vue3学习(新)", link: "/fe/vue/Vue3学习(新)" },
     ],
   },
   {
@@ -50,7 +59,7 @@ export default [
     text: "Other",
     collapsed: true,
     items: [
-      { text: "Git", link: "/fe/git/git" },
+      { text: "Git", link: "/git/git" },
       { text: "Webpack", link: "/fe/webpack/webpack_basis" },
       { text: "Vscode", link: "/fe/ide/vscode" },
       { text: "Vuepress", link: "/fe/vuepress/vuepress" },

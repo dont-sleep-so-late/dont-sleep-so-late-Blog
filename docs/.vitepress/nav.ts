@@ -13,12 +13,12 @@ export default [
       {
         text: "扎马步",
         items: [
-          { text: "HTML / CSS", link: "/fe/css/css" },
           { text: "HTML", link: "/fe/html/html" },
+          { text: "CSS", link: "/fe/css/css" },
           { text: "JavaScript", link: "/fe/js/what_is_js" },
           { text: "Vue", link: "/fe/vue/vue_core_basis" },
           { text: "Nodejs", link: "/fe/nodejs/node_basis" },
-          { text: "Git", link: "/git/git" },
+          { text: "Git", link: "/git/Git 相关技巧.md" },
           { text: "Webpack", link: "/fe/webpack/webpack_basis" },
           { text: "Vscode", link: "/fe/ide/vscode" },
           { text: "前端编程题", link: "/fe/js/coding_problem" },
@@ -41,7 +41,7 @@ export default [
     text: "知也无涯",
     items: [
       { text: "计算机网络", link: "/university/network" },
-      { text: "Python", link: "/lang/python/crawler" },
+      { text: "Python", link: "/python/python基础" },
     ],
   },
   // {

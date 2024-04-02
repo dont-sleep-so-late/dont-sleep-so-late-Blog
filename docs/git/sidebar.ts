@@ -1,7 +1,6 @@
 export default [
   {
     text: "GIT",
-    collapsed: true,
     items: [
       { text: "Git 相关技巧", link: "/git/Git 相关技巧.md" },
       { text: "git", link: "/git/git" },
