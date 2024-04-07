@@ -1,10 +1,3 @@
----
-title: flex 布局
-date: 2023-09-06 21:03:15
-tags: [CSS,CSS flex]
-categories: 前端开发
----
-
 ## flex 布局原理
 
 全称 flexible box，弹性布局。

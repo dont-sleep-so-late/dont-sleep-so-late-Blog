@@ -1,19 +1,3 @@
----
-title: Sass详解
-top: false
-cover: false
-toc: true
-mathjax: false
-date: 2023-10-18 00:22:19
-author:
-img:
-coverImg:
-password:
-summary:
-tags: [css , sass]
-categories: 前端开发
----
-
 ### 1. 什么是Sass?
 
 Sass(Syntactically Awesome Stylesheets)是一个 [CSS](https://so.csdn.net/so/search?q=CSS&spm=1001.2101.3001.7020) 预处理器，是 CSS 扩展语言，可以帮助我们减少 CSS 重复的代码，节省开发时间。

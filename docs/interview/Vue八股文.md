@@ -1,9 +1,3 @@
----
-title: Vue八股文
-date: 2024-03-07 23:31:36
-tags: [Vue,八股文]
-categories: 前端开发
----
 
 ## Vue 的设计模式
 

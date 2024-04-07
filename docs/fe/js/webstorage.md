@@ -1,11 +1,3 @@
----
-title: 浏览器本地存储 Web Storage
-date: 2023-09-06 21:07:15
-tags: [JavaScript,JS WebStorage]
-categories: 前端开发
----
-
-
 :::tip 浏览器本地存储
 浏览器本地存储包括两个对象：`sessionStorage` 和 `localStorage`，它们都是 `Storage` 的实例对象。
 

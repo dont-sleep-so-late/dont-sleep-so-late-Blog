@@ -1,9 +1,3 @@
----
-title: Vue 核心基础
-date: 2023-09-06 21:09:15
-tags: [Vue,Vue核心基础]
-categories: 前端开发
----
 
 [官网传送门](https://v2.cn.vuejs.org/)
 

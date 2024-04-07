@@ -1,10 +1,3 @@
----
-title: JavaScript 数组
-date: 2023-09-06 21:06:15
-tags: [JavaScript,JS array]
-categories: 前端开发
----
-
 ## 数组方法
 
 ### 数组操作

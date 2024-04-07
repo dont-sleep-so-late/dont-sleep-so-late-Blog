@@ -1,12 +1,3 @@
----
-title: axios介绍与使用说明
-date: 2023-09-08 22:31:15
-tags: axios
-categories: 前端开发
----
-
-
-
 ## axios介绍与使用说明 axios中文文档
 
 本周在做一个使用vuejs的前端项目，访问后端服务使用axios库，这里对照官方文档，简单记录下，也方便大家参考。

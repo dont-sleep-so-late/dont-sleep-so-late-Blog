@@ -1,10 +1,3 @@
----
-title: 吾名 JavaScript
-date: 2023-09-06 21:05:15
-tags: "JavaScript"
-categories: 前端开发
----
-
 ## JavaScript 和 ECMAScript
 
 ECMAScript 是 JavaScript 语言的**国际标准**，JavaScript 是 ECMAScript 的**一种实现**（Adobe ActionScript 和 JScript 同样实现了 ECMAScript）。

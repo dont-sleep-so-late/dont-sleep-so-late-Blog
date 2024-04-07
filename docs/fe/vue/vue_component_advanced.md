@@ -1,9 +1,3 @@
----
-title: Vue 组件进阶
-date: 2023-09-06 21:11:15
-tags: [Vue,Vue组件]
-categories: 前端开发
----
 
 ## 动态组件
 

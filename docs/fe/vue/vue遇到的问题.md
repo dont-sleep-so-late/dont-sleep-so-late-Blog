@@ -1,9 +1,3 @@
----
-title: Vue遇到的问题
-date: 2024-03-10 09:17:15
-tags: [Vue,Vue3]
-categories: 前端开发
----
 
 # vue router 配置 component 报错 TypeError: Cannot use 'in' operator to search for 'catch' in undefined 
 

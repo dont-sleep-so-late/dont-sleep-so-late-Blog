@@ -1,11 +1,3 @@
----
-title: Nodejs基础
-date: 2023-09-09 22:40:15
-tags: Nodejs
-categories: 前端开发
----
-
-
 
 [官网传送门](https://nodejs.org/en/)
 

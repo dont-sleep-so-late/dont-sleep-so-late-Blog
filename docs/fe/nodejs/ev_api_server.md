@@ -1,9 +1,3 @@
----
-title: 大事件后台 API 项目
-date: 2023-09-09 22:44:15
-tags: Nodejs
-categories: 前端开发
----
 
 > [API 接口文档](https://www.showdoc.cc/escook?page_id=3707158761215217)
 

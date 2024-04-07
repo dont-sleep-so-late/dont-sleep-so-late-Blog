@@ -1,9 +1,3 @@
----
-title: 数据库和身份认证
-date: 2023-09-09 22:45:15
-tags: [Nodejs,mysql]
-categories: 前端开发
----
 
 ## Node 操作 mysql
 

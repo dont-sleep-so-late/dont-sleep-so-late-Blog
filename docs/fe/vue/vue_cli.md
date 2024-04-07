@@ -1,9 +1,4 @@
----
-title: Vue 脚手架
-date: 2023-09-06 21:12:15
-tags: [Vue,Vue脚手架]
-categories: 前端开发
----
+
 
 [官网传送门](https://cli.vuejs.org/zh/)
 

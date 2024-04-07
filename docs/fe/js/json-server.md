@@ -1,10 +1,3 @@
----
-title: 基于 json-server 工具，准备后端接口服务环境
-data: 2023-09-12 15:39:16
-tags: json-server
-categories: 前端开发
----
-
 # 简单使用
 
 1. 安装全局工具  **json-server** （全局工具仅需要安装一次）【[官网](https://www.npmjs.com/package/json-server)】 

@@ -1,10 +1,3 @@
----
-title: Vuex
-date: 2023-09-06 21:15:15
-tags: [Vue,Vuex]
-categories: 前端开发
----
-
 [官网传送门](https://vuex.vuejs.org/zh/)
 
 ## 概述

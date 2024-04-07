@@ -1,9 +1,3 @@
----
-title: Express
-date: 2023-09-09 22:43:15
-tags: Express
-categories: 前端开发
----
 
  [Express](https://www.expressjs.com.cn/) 基于 Node.js 平台，快速、开放、极简的 Web 开发框架
 

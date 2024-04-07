@@ -1,9 +1,3 @@
----
-title: Vue Router
-date: 2023-09-06 21:17:15
-tags: [Vue,Router]
-categories: 前端开发
----
 
 [官网传送门](https://router.vuejs.org/zh/)
 

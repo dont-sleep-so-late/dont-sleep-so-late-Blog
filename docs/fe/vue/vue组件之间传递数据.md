@@ -1,11 +1,3 @@
----
-title: vue 组件之间传递数据
-date: 2023-09-08 01:30:15
-tags: [Vue,Vue组件间通信]
-categories: 前端开发
----
-
-
 
 # vue组件间通信
 

@@ -1,9 +1,3 @@
----
-title: Hello Less
-date: 2023-09-06 21:04:15
-tags: [CSS,CSS Less]
-categories: 前端开发
----
 ## tip Less
 
 It's CSS, with just a little more.

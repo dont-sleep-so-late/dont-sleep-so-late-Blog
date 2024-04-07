@@ -1,9 +1,3 @@
----
-title: git 笔记
-date: 2023-10-02 09:22:15
-tags: Git
-categories: Git仓库
----
 
 ## 账户配置
 

@@ -1,9 +1,3 @@
----
-title: Git 葵花宝典
-date: 2023-09-06 21:22:15
-tags: Git
-categories: Git仓库
----
 
 ## 账户配置
 

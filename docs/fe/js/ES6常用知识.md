@@ -1,19 +1,3 @@
----
-title: ES6常用知识
-top: false
-cover: false
-toc: true
-mathjax: false
-date: 2023-09-14 15:18:35
-author:
-img:
-coverImg:
-password:
-summary:
-tags: ES6
-categories: 前端开发
----
-
 `ECMAScript 6` (简称 `ES6`) 是 `JavaScript` 语言的下一代标准
 
 `ECMAScript` 的提案流程
