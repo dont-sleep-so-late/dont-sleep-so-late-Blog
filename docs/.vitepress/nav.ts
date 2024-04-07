@@ -1,8 +1,8 @@
 export default [
-  {
-    text: "随笔杂谈",
-    link: "/magazine/weekly2023",
-  },
+  // {
+  //   text: "随笔杂谈",
+  //   link: "/post/",
+  // },
   {
     text: "资源集中营",
     link: "/resources/网站推荐/音乐导航",
