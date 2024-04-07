@@ -63,6 +63,17 @@ export default withPwa(
       socialLinks: [
         { icon: "github", link: "https://github.com/dont-sleep-so-late" },
       ],
+      darkModeSwitchLabel: "切换主题",
+      lightModeSwitchTitle: "切换到白色主题",
+      darkModeSwitchTitle: "切换到黑色主题",
+      sidebarMenuLabel: "目录",
+      returnToTopLabel: "返回顶部",
+      langMenuLabel: "语言",
+      externalLinkIcon: true,
+      notFound: {
+        quote: "看起来我们进入了错误的链接，这里什么都没有",
+        linkText: "返回主页",
+      },
     },
     pwa: {
       outDir: ".vitepress/dist", // 输出目录
@@ -71,7 +82,7 @@ export default withPwa(
       manifest: {
         id: "/", // 清单 ID
         name: "你别睡这么晚的小册", // 应用名称
-        short_name: "小睡小册", // 应用的短名称
+        short_name: "晚小册", // 应用的短名称
         description: "你别睡这么晚的个人博客", // 应用的描述
         theme_color: "#ffffff", // 主题颜色
         icons: [
