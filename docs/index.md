@@ -18,12 +18,12 @@ hero:
     # 图片的描述
     alt: avatar
   actions:
-    - theme: brand
-      text: 进入主页
-      link: /fe/vue/Vue3学习(新)
-    - theme: alt	
-      text: 个人成长
-      link: /university/network
+  - theme: brand
+    text: 进入主页
+    link: /fe/vue/Vue3Study(new)
+  - theme: alt	
+    text: 个人成长
+    link: /university/network
 
 features:
   - icon: 🤹

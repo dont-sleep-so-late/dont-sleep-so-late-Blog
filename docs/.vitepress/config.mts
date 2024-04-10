@@ -19,7 +19,7 @@ export default withPwa(
       algolia: {
         appId: "K880G321DE",
         apiKey: "5c9b9d0f591eb08ace149bf3d24ed065",
-        indexName: "myTeamManual",
+        indexName: "myBlog2.0",
         placeholder: "快乐搜索吧",
         translations: {
           button: {

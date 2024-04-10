@@ -40,8 +40,8 @@ export default [
   {
     text: "知也无涯",
     items: [
-      { text: "计算机网络", link: "/university/network" },
-      { text: "Python", link: "/python/python基础" },
+      // { text: "计算机网络", link: "/university/network" },
+      // { text: "Python", link: "/python/python基础" },
     ],
   },
   // {

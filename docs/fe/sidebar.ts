@@ -9,7 +9,7 @@ export default [
       { text: "Flex", link: "/fe/css/flex" },
       { text: "Grid", link: "/fe/css/grid" },
       { text: "Less", link: "/fe/css/less" },
-      { text: "Sass", link: "/fe/css/Sass详解" },
+      { text: "Sass", link: "/fe/css/Sass" },
     ],
   },
   {
@@ -20,9 +20,10 @@ export default [
       { text: "JS 数组", link: "/fe/js/array" },
       { text: "Web Storage 浏览器本地存储", link: "/fe/js/webstorage" },
       { text: "JS 模块化", link: "/fe/js/js_modules" },
-      { text: "ES6常用知识", link: "/fe/js/ES6常用知识" },
+      { text: "ES6常用知识", link: "/fe/js/ES6" },
       { text: "array", link: "/fe/js/array" },
       { text: "json-server", link: "/fe/js/json-server" },
+      { text: "axios", link: "/fe/js/axios" },
     ],
   },
   {
@@ -37,14 +38,11 @@ export default [
       { text: "Vuex", link: "/fe/vue/vuex" },
       { text: "Vue Router", link: "/fe/vue/vue_router" },
       { text: "Vue3", link: "/fe/vue/vue3" },
-      { text: "Vue3项目配置", link: "/fe/vue/Vue3项目配置" },
-      { text: "Vue3学习(新)", link: "/fe/vue/Vue3学习(新)" },
-      { text: "vue组件之间传递数据", link: "/fe/vue/vue组件之间传递数据" },
-      {
-        text: "Vue 封装API",
-        link: "/fe/vue/使用 Vue3 封装一些有用的组合 API",
-      },
-      { text: "Vue3学习(新)", link: "/fe/vue/Vue3学习(新)" },
+      { text: "Vue3项目配置", link: "/fe/vue/Vue3ProjectConfig" },
+      { text: "vue组件之间传递数据", link: "/fe/vue/vueConnectOfComponent" },
+      { text: "Vue 封装API", link: "/fe/vue/Vue3ApiUtils" },
+      { text: "Vue3学习(新)", link: "/fe/vue/Vue3Study(new)" },
+      { text: "Vue开发遇到的问题", link: "/fe/vue/vueProblem" },
     ],
   },
   {
@@ -57,15 +55,15 @@ export default [
       { text: "大事件后台 API 项目", link: "/fe/nodejs/ev_api_server" },
     ],
   },
-  {
-    text: "Other",
-    collapsed: true,
-    items: [
-      { text: "Webpack", link: "/fe/webpack/webpack_basis" },
-      { text: "Vscode", link: "/fe/ide/vscode" },
-      { text: "Vuepress", link: "/fe/vuepress/vuepress" },
-      { text: "Vitepress", link: "/fe/vuepress/vitepress" },
-      { text: "前端编程题", link: "/fe/js/coding_problem" },
-    ],
-  },
+  // {
+  //   text: "Other",
+  //   collapsed: true,
+  //   items: [
+  //     { text: "Webpack", link: "/fe/webpack/webpack_basis" },
+  //     { text: "Vscode", link: "/fe/ide/vscode" },
+  //     { text: "Vuepress", link: "/fe/vuepress/vuepress" },
+  //     { text: "Vitepress", link: "/fe/vuepress/vitepress" },
+  //     { text: "前端编程题", link: "/fe/js/coding_problem" },
+  //   ],
+  // },
 ];

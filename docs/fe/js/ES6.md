@@ -1,4 +1,4 @@
-`ECMAScript 6` (简称 `ES6`) 是 `JavaScript` 语言的下一代标准
+# `ECMAScript 6` (简称 `ES6`) 是 `JavaScript` 语言的下一代标准
 
 `ECMAScript` 的提案流程
 
@@ -95,7 +95,7 @@ var a = 'var'
 var a
 console.log(a) // 输出 var
 
-let b = 'let'	
+let b = 'let' 
 let b // 报错
 ```
 
@@ -108,7 +108,7 @@ function fn() {
   if (true) {
     var a = 'var'
     let b = 'let'
-	const c = 'const'
+ const c = 'const'
     
     console.log(a) // 输出 var
     console.log(b) // 输出 let
@@ -327,7 +327,7 @@ const fn = function (value) {
 - 定义原型方法且该方法内部包括 `this` 时
 - 需要动态 `this` 时
 
-[利用 `babel` 编译箭头函数代码查看 `this` 的指向](https://www.babeljs.cn/repl#?browsers=defaults%2C not ie 11%2C not ie_mob 11&build=&builtIns=false&corejs=3.6&spec=false&loose=false&code_lz=MYewdgzgLgBANiA5jAvDAFASlQPhgbwCgYZRIQ4BTAOgUXQHI6YoALASwgC4GAaFjhEyEAvoUIAzAK5hgUduBgSwWAsRgRKUACrsAtpRBSo6VSjxESJMhAo06jZQM49-bTsJIj-ARgAMfsIiQA&debug=false&forceAllTransforms=true&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=script&lineWrap=true&presets=env%2Creact&prettier=false&targets=&version=7.17.11&externalPlugins=&assumptions={})
+[利用 `babel` 编译箭头函数代码查看 `this` 的指向](<https://www.babeljs.cn/repl#?browsers=defaults%2C> not ie 11%2C not ie_mob 11&build=&builtIns=false&corejs=3.6&spec=false&loose=false&code_lz=MYewdgzgLgBANiA5jAvDAFASlQPhgbwCgYZRIQ4BTAOgUXQHI6YoALASwgC4GAaFjhEyEAvoUIAzAK5hgUduBgSwWAsRgRKUACrsAtpRBSo6VSjxESJMhAo06jZQM49-bTsJIj-ARgAMfsIiQA&debug=false&forceAllTransforms=true&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=script&lineWrap=true&presets=env%2Creact&prettier=false&targets=&version=7.17.11&externalPlugins=&assumptions={})
 
 ```js
 /* ES6 */
@@ -999,7 +999,7 @@ x ?? (x = y)
 
 `ESModule` 是 `ES6` 在语言标准的层面上实现的模块功能，其设计思想是尽量的静态化，使得编译时就能确定模块的依赖关系以及输入和输出的变量
 
-- `ESModule` 是编译时加载，使静态分析成为可能	
+- `ESModule` 是编译时加载，使静态分析成为可能 
 - 模块内部**自动使用严格模式**
 - 模块中的**顶层 `this` 指向 `undefined`**
 
